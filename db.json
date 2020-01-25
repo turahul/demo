@@ -1,19 +1,6 @@
-{
-  "posts": [
-    
-  ],
-  "comments": [
-    { "CardNumber": 1, "Card": "some comment", "postId": 1 },
-    { "id": 1001100110011001, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  
-  },
- 
+{ 
 "Card": [
-    {"CardNumber": 101,"Name On Card":"abc","DateOfExpiry":"06/21/2020","CVV":"202"},
-    {"CardNumber": 102,"Name On Card":"bcd","DateOfExpiry":"08/01/2020","CVV":"176"},
+   
     { "id": 1, "CardNumber":1001100110011001,"NameOnCard":"XYZ","DateOfExpiry":"19/09/2020","CVV":201 },
     { "id": 2,"CardNumber":1001100110011002,"NameOnCard":"ABC","DateOfExpiry":"21/10/2021","CVV":203 },
     { "id": 3,"CardNumber":1001100110011003,"NameOnCard":"DEF","DateOfExpiry":"20/09/2021","CVV":402 },
