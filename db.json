@@ -15,7 +15,13 @@
   ],
   "profile": {
     "name": "typicode"
+  
   }
+  "card":
+  [
+{"Card Number":"101","Name On Card":"abc","DateOfExpiry":"06/21/2020","CVV":"202"},
+{"Card Number":"102","Name On Card":"bcd","DateOfExpiry":"08/01/2020","CVV":"176"}
+]
 }
 
 
