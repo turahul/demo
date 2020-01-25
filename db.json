@@ -1,8 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {"CardNumber":"1001100110011001","NameOnCard":"XYZ","DateOfExpiry":"19/09/2020","CVV":"201"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
@@ -12,3 +10,5 @@
     "name": "typicode"
   }
 }
+
+
