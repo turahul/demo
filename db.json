@@ -1,6 +1,6 @@
 {
   "posts": [
-    {"id":"1","CardNumber":"1001100110011001","NameOnCard":"XYZ","DateOfExpiry":"19/09/2020","CVV":"201"}
+    {"id":1,"CardNumber":"1001100110011001","NameOnCard":"XYZ","DateOfExpiry":"19/09/2020","CVV":"201"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
