@@ -1,5 +1,5 @@
 { 
-"Card": [
+
    
     { "CardID" : 1,"CardNumber":1001100110011001,"NameOnCard":"XYZ","DateOfExpiry":"19/09/2020","CVV":201 },
     { "CardID" : 1,"CardNumber":1001100110011002,"NameOnCard":"ABC","DateOfExpiry":"21/10/2021","CVV":203 },
@@ -9,7 +9,7 @@
     { "CardID" : 1,"CardNumber":1001100110011006,"NameOnCard":"OPQ","DateOfExpiry":"24/10/2021","CVV":203 },
     { "CardID" : 1,"CardNumber":1001100110011007,"NameOnCard":"RST","DateOfExpiry":"22/09/2025","CVV":402 },
     { "CardID" : 1,"CardNumber":1001100110011008,"NameOnCard":"UVW","DateOfExpiry":"12/10/2023","CVV":987 }
-]
+
 }
 
 
